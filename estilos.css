@@ -1,0 +1,24 @@
+/*esto es un selector que afecta en todos los elementos de mi pagina */
+* {
+    margin: 0px;
+    padding: 0px
+}
+
+/*generar estilos por una clase */
+
+.Imagen_Header {
+    border: 2px solid blue;
+    padding: 20px;
+    margin: 50 px;
+}
+
+#video1 {
+    width: 200px;
+    height: 150px;
+}
+
+#video3 {
+   /* border: 8px solid chocolate; */
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 1px rgb(178, 181, 220);
+}
