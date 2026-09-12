@@ -7,9 +7,10 @@
 /*generar estilos por una clase */
 
 .Imagen_Header {
-    border: 2px solid blue;
+
+    border:7px solid blue;
     padding: 20px;
-    margin: 50 px;
+    margin: 50px;
 }
 
 #video1 {
@@ -21,4 +22,10 @@
    /* border: 8px solid chocolate; */
     border-radius: 20px;
     box-shadow: 5px 5px 5px 1px rgb(178, 181, 220);
+}
+
+
+
+#TextoProductosCasa>h2+p+p{
+    color:red;
 }
